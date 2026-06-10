@@ -1,0 +1,25 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files and Libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Dependency files
+*.d
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
