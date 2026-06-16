@@ -1,0 +1,18 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#080D15"/>
+  <text x="66" y="108" fill="#22D3EE" font-family="Segoe UI, Arial" font-size="54" font-weight="900" letter-spacing="10">ALTHERIA</text>
+  <text x="360" y="108" fill="white" font-family="Segoe UI, Arial" font-size="54" font-weight="900" letter-spacing="8">| COMMAND HUB</text>
+  <rect x="66" y="190" width="320" height="118" rx="12" fill="#111827" stroke="#1E3A5F"/>
+  <rect x="440" y="190" width="320" height="118" rx="12" fill="#111827" stroke="#1E3A5F"/>
+  <rect x="814" y="190" width="320" height="118" rx="12" fill="#111827" stroke="#1E3A5F"/>
+  <text x="96" y="246" fill="#93C5FD" font-family="Segoe UI, Arial" font-size="24" font-weight="800">ACTIVE INVESTIGATIONS</text>
+  <text x="96" y="294" fill="white" font-family="Segoe UI, Arial" font-size="48" font-weight="900">03</text>
+  <text x="470" y="246" fill="#93C5FD" font-family="Segoe UI, Arial" font-size="24" font-weight="800">PENDING REPORTS</text>
+  <text x="470" y="294" fill="#F59E0B" font-family="Segoe UI, Arial" font-size="48" font-weight="900">01</text>
+  <text x="844" y="246" fill="#93C5FD" font-family="Segoe UI, Arial" font-size="24" font-weight="800">SYSTEM HEALTH</text>
+  <text x="844" y="294" fill="#22C55E" font-family="Segoe UI, Arial" font-size="48" font-weight="900">98%</text>
+  <rect x="66" y="356" width="506" height="160" rx="14" fill="#111827" stroke="#1E3A5F"/>
+  <rect x="628" y="356" width="506" height="160" rx="14" fill="#111827" stroke="#1E3A5F"/>
+  <text x="200" y="444" fill="white" font-family="Segoe UI, Arial" font-size="36" font-weight="900" letter-spacing="6">NEW ASSESSMENT</text>
+  <text x="746" y="444" fill="white" font-family="Segoe UI, Arial" font-size="36" font-weight="900" letter-spacing="6">CASE VERIFICATION</text>
+</svg>
