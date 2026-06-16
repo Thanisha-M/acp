@@ -1,0 +1,15 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#07111F"/>
+  <rect x="45" y="55" width="1110" height="565" rx="24" fill="#111C2D" stroke="#1E3A5F" stroke-width="3"/>
+  <text x="84" y="126" fill="#22D3EE" font-family="Segoe UI, Arial" font-size="40" font-weight="800" letter-spacing="8">ASSESSMENT ENCLAVE</text>
+  <rect x="85" y="178" width="680" height="160" rx="12" fill="#062B33" stroke="#0E7490"/>
+  <text x="118" y="230" fill="#2DD4BF" font-family="Segoe UI, Arial" font-size="24" font-weight="800">ASSESSMENT PROMPT</text>
+  <text x="118" y="282" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="28" font-weight="700">What thought keeps returning to you?</text>
+  <rect x="805" y="178" width="305" height="330" rx="16" fill="#101827" stroke="#1E3A5F"/>
+  <text x="840" y="235" fill="#22D3EE" font-family="Segoe UI, Arial" font-size="28" font-weight="800">BEHAVIOR METRICS</text>
+  <rect x="840" y="280" width="220" height="14" rx="7" fill="#164E63"/><rect x="840" y="280" width="155" height="14" rx="7" fill="#22D3EE"/>
+  <rect x="840" y="340" width="220" height="14" rx="7" fill="#164E63"/><rect x="840" y="340" width="96" height="14" rx="7" fill="#22D3EE"/>
+  <rect x="840" y="400" width="220" height="14" rx="7" fill="#164E63"/><rect x="840" y="400" width="132" height="14" rx="7" fill="#22D3EE"/>
+  <rect x="85" y="372" width="680" height="95" rx="12" fill="#101827" stroke="#1E3A5F"/>
+  <text x="118" y="430" fill="#FBBF24" font-family="Segoe UI, Arial" font-size="24" font-weight="800">SUBJECT RESPONSE</text>
+</svg>

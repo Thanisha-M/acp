@@ -1,0 +1,11 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#202020"/>
+  <rect x="78" y="98" width="1044" height="486" rx="28" fill="#2B2B2B"/>
+  <text x="520" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="54" font-weight="800">FocusSpace</text>
+  <text x="498" y="218" fill="#9CA3AF" font-family="Segoe UI, Arial" font-size="28">Your personal focus companion</text>
+  <rect x="170" y="282" width="860" height="76" rx="12" fill="#34363A" stroke="#737780" stroke-width="3"/>
+  <rect x="170" y="386" width="860" height="76" rx="12" fill="#34363A" stroke="#737780" stroke-width="3"/>
+  <rect x="170" y="506" width="860" height="76" rx="12" fill="#2878B9"/>
+  <text x="554" y="555" fill="#D8EAFE" font-family="Segoe UI, Arial" font-size="32" font-weight="700">Login</text>
+  <circle cx="430" cy="154" r="28" fill="#60A5FA"/>
+</svg>
